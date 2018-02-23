@@ -2,7 +2,7 @@
 
 ## Rok za predaju:	1. srpnja 2017, 23:59:59
 ### Upute za predaju rješenja: 
-- Rješenje se predaje pull requestom na projekt https://github.com/racspa/spa2017dz2
+- Rješenje se predaje pull requestom na projekt https://github.com/mkldodazz/testdz
 - Rješenje predano nakon gornjeg roka neće se uvažiti
 - Naziv pull requesta treba biti u obliku *SPA-Z02-ImePrezime-ImeAsistenta* (npr *SPA-Z02-ImePrezime-dbele* ili *SPA-Z02-ImePrezime-mzagar*)
 - Solution s projektima 'zadatak1' i 'zadatak2' kreirajte u direktoriju 'rjesenje'
@@ -29,7 +29,7 @@ Savjeti:
 ### Koraci za kreiranje pull requesta
 - kreirajte github account
 - ulogirajte se na github
-- otvorite url projekta https://github.com/racspa/spa2017dz2 i kreirajte kopiju na svom github racunu klikom na gumb 'Fork' 
+- otvorite url projekta https://github.com/mkldodazz/testdz i kreirajte kopiju na svom github racunu klikom na gumb 'Fork' 
 - rijesite zadatak i push-ajte promjene u svoj spa2017dz2 projekt repozitorij (mozete commit-ati i push-ati koliko promjena god zelite)
 - kada ste rijesili zadatak predajte ga kreiranjem pull requesta sa svog projekt natrag u projekt racspa/spa2017dz2
 - naziv pull requesta zadajte prema gore navedenim uputama
